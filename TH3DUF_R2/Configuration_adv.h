@@ -225,8 +225,8 @@
 
 #define AXIS_RELATIVE_MODES {false, false, false, false}
 
-#define INVERT_X_STEP_PIN false
-#define INVERT_Y_STEP_PIN false
+#define INVERT_X_STEP_PIN true
+#define INVERT_Y_STEP_PIN true
 #define INVERT_Z_STEP_PIN false
 #define INVERT_E_STEP_PIN false
 
